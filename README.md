@@ -1,1 +1,1 @@
-# clickergame
+# clickergame.github.io
